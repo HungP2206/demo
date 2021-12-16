@@ -1,0 +1,25 @@
+môn học:
+---------------------------------
+PHẢI ĐĂNG KÝ  MÔN NÀY TRC
+hk4
+IS210
+Hệ quản trị cơ sở dữ liệu  TA 4tc
+
+hk5 (không có đâu)
+IS336
+Hoạch định nguồn lực doanh nghiệp  4tc
+
+--------------------------------
+hk6
+
+IS252
+Khai thác dữ liệu  TA  4tc
+
+IS217
+Kho dữ liệu và OLAP  3tc CÓ MỞ Ở HK5
+
+IS403
+Phân tích dữ liệu kinh doanh   TA  3tc
+
+NT118 
+Phát triển ứng dụng trên thiết bị di động  TA   3tc CÓ MỞ Ở HK5
